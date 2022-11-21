@@ -1,0 +1,36 @@
+.wallet_kokoa {
+    width: 640px;
+    height: 300px;
+    background-color: yellow;
+}
+
+.wallet_kokoa_colum {
+    position: absolute;
+    width: 570px;
+    height: 50px;
+    background-color: white;
+    border-radius: 10PX;
+    border: 2px solid #D5D5D5;
+    margin: 70px 30px;
+    display: flex;
+    justify-content: center;
+}
+
+.wallet_kokoa_comment {
+    font-weight: bold;
+    margin: 15px 0px;
+}
+
+.wellet_titles {
+    position: absolute;
+    margin: 20px 30px;
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+
+.defend_wallet {
+    float: right;
+    margin: 20px  10px;
+    font-weight: bold;
+}

@@ -1,0 +1,27 @@
+.badge {
+    background-color: tomato;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 13px;
+}
+
+.user-chat {
+    display: flex;
+}
+
+.user-chat-time  {
+    font-weight: bold;
+    font-size: 15px;
+    color: #8C8C8C;
+    margin-left: 350px;
+}
+
+.user-comment_subtitle-col {
+    display: flex;
+    justify-content: space-between;
+}
